@@ -3,7 +3,6 @@ Software Engineer
 
 **SOBRE MIM**  
 
-Olá ✋ Me chamo Daniel.  
 Desenvolvedor Backend trabalhando desde 2021 com desenvolvimento de aplicações Java 8+ com Spring e PostgreSQL em arquitetura de microsserviços, em fluxos críticos, de forma eficiente e escalável.  
 Com foco em qualidade de código, arquitetura e escalabilidade, tenho sólido conhecimento de programação, design e arquitetura. Sou apaixonado por programação e sempre estou aprendendo novas tecnologias e paradigmas.  
 
