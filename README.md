@@ -8,7 +8,7 @@ Focusing on code quality, architecture and scalability, I have solid knowledge o
 
 **CONTACT**  
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/danielmrcl) and [GitHub](https://github.com/danielmrcl) or contact me by email at [dev@danielmrcl.me](mailto:dev@danielmrcl.me).
+You can find me on [LinkedIn](https://www.linkedin.com/in/danielmrcl) and [GitHub](https://github.com/danielmrcl) or contact me via email at [me@danielmrcl.dev](mailto:me@danielmrcl.dev).
 
 **PROJECTS**
 - [ArtDigital](https://github.com/danielmrcl/artdigital) - ArtDigital is an e-commerce that aims to simplify the dissemination and sale of products in the craft sector. Project in MVP phase developed as final graduation delivery.
