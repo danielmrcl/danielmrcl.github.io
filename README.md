@@ -1,14 +1,14 @@
 Daniel Jr.  
 Software Engineer  
 
-**SOBRE MIM**  
+**ABOUT ME**  
 
-Desenvolvedor Backend trabalhando desde 2021 com desenvolvimento de aplicações Java 8+ com Spring e PostgreSQL em arquitetura de microsserviços, em fluxos críticos, de forma eficiente e escalável.  
-Com foco em qualidade de código, arquitetura e escalabilidade, tenho sólido conhecimento de programação, design e arquitetura. Sou apaixonado por programação e sempre estou aprendendo novas tecnologias e paradigmas.  
+Since 2021 working on developing Java 8+ applications with Spring and PostgreSQL in microservices architecture for critical, efficient and scalable systems.
+Focusing on code quality, architecture and scalability, I have solid knowledge of programming, design and architecture. I'm passionate about programming and I'm always learning new technologies and paradigms.
 
-**CONTATO**  
+**CONTACT**  
 
-Você pode me achar no [LinkedIn](https://www.linkedin.com/in/danielmrcl) e [GitHub](https://github.com/danielmrcl) ou me contatar por email em [daniels.ms@pm.me](mailto:daniels.ms@pm.me).  
+You can find me on [LinkedIn](https://www.linkedin.com/in/danielmrcl) and [GitHub](https://github.com/danielmrcl) or contact me by email at [daniels.ms@pm .me](mailto:daniels.ms@pm.me).
 
-**PROJETOS**
-- [ArtDigital](https://github.com/danielmrcl/artdigital) - ArtDigital é um e-commerce que visa simplificar a divulgação e a venda de produtos no ramo do artesanato. Projeto em fase de MVP desenvolvido como entrega final da graduação.  
+**PROJECTS**
+- [ArtDigital](https://github.com/danielmrcl/artdigital) - ArtDigital is an e-commerce that aims to simplify the dissemination and sale of products in the craft sector. Project in MVP phase developed as final graduation delivery.
