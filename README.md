@@ -3,7 +3,7 @@ Software Engineer
 
 **ABOUT ME**  
 
-Since 2021 working on developing Java 8+ applications with Spring and PostgreSQL in microservices architecture for critical, efficient and scalable systems.
+Since 2021 working on developing Java 8+ applications with Spring and PostgreSQL in microservices architecture for critical, efficient and scalable systems.  
 Focusing on code quality, architecture and scalability, I have solid knowledge of programming, design and architecture. I'm passionate about programming and I'm always learning new technologies and paradigms.
 
 **CONTACT**  
