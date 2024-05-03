@@ -47,14 +47,14 @@ main {
 	width: 100%;
 	height: 270px;
 	display: flex;
-	flex-wrap: nowrap;
-	flex-direction: row;
+	flex-flow: row wrap;
+	justify-content: center;
 }
 
 .perfil-details {
+	flex: 1 400px;
 	text-align: center;
 	padding: 20px;
-	width: 100%;
 }
 
 .perfil-details > span {
@@ -66,6 +66,7 @@ main {
 }
 
 .perfil-image {
+	flex: 0 250px;
 	height: 100%;
     display: flex;
     justify-content: center;
@@ -121,8 +122,8 @@ main {
 						</svg>
 					</div>
 				</div>
+				<hr width="100%" />
 			</div>
-			<hr width="100%" />
 			<!-- TODO: "WORKING ON" section. -->
 		</main>
 	</body>
