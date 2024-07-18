@@ -1,1 +1,524 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600px" height="600px" viewBox="0 0 200 200" style="overflow:hidden!important;"><g id="svga-group-wrapper"><g id="svga-group-backs-single"></g><g id="svga-group-humanwrap-move" transform="matrix(1,0,0,1,0,0)"><g id="svga-group-humanwrap"><g id="svga-group-hair-back-move" transform="matrix(1,0,0,1,0,0)"><g id="svga-group-hair-back" transform="matrix(0.9599996000000002,0,0,0.9997996000000002,0,0)"></g></g><g id="svga-group-humanbody-back"><path id="SvgjsPath25775" d="m170 180.3-27.3-6.9-18-9.9-1.5-28.2H76.8l-1.5 28.2-18 9.9-27.3 6.9-9.1 19.7-3 20h164.2l-3-20z" fill="#fbd5c0" stroke-width="none" opacity="1" stroke="none"></path><path id="SvgjsPath25776" d="m76.8 135.3-1.5 28.2-18 9.9-27.3 6.9-9.1 19.7-3 20h14.6v-20l2.7-17.7 23.8-6.4 24.7-8.3 3.5-32.3z" fill="#dc9f7d" stroke-width="none" opacity="1" stroke="none"></path></g><g id="svga-group-chinshadow-single"><path id="SvgjsPath25771" d="m121.5 149.1 2.2-3.8-.5-10H76.8l-.8 15.9 13.8 9.6h14.8z" fill="#cd865f" stroke-width="none" opacity="1" stroke="none"></path></g><g id="svga-group-humanbody-front"><path id="SvgjsPath25777" d="m92.8 168.3 2 7.9 6.9 4.6s-8.5-3-8.7-3.6c-.2-.6-.2-8.9-.2-8.9z" fill="#dc9f7d" stroke-width="none" opacity="1" stroke="none"></path></g><g id="svga-group-clothes-single"><path id="SvgjsPath25658" d="m184.7 220-8.1-35.4-4.8-3.5-1.5-2-17.6-6.8-8.6-15.9-3.8-1.6-7.3-9-9.4-3.1.6 11-1.3 10.1-8.9 9.1-8.1 9.8-2.5 5-1.7-3.2-4.5-3.8-11.2-7.8-8.9-9.1-1.3-10.1.6-11-9.4 3.1-7.3 9-3.8 1.6-8.6 15.9-17.6 6.8-1.5 2-4.8 3.5-8.1 35.4z" fill="#3c3c3c" stroke-width="none" opacity="1"></path><path id="SvgjsPath25659" d="m134.2 188.8-15 3.8-9.9.2-.1-1.7 1.3-.1-.7-2.3-3.2.3-.1 2.3.8-.1v1.6h-2.1l2.1.2.1 5.9-.7 7.4 1.6 7.5.3 4.8 2.6-1-.3-5.1-2-6.6.9-7.3-.3-5.6 9.7.7 15.8-4.1 16-12.2 2-5.3-3.2 4.1-15.6 12.6zm-32.2 4.3-2.5-.2.2-1.8.6.1 1.2-2.2-3.3-2.3-2 1.9 1.2 2.3h.1v1.9l-1.5-.1-26-6.9-15.8-11 1.9-11L59 160l11 18.7 17.7 7.2-14.8-7.9-8.1-12.4 2.2-19.8-7.2 8.9-3.8 1.7-8.6 15.8-17.7 6.8-1.5 2-4.8 3.5-8.1 35.5h10.2l1.3-14.3 3.3-18.1 2.9 2.6 2.6 13.9 1.2 15.9v-16.2l-2.6-15.3-2.2-4.3 1.4-1.7 16.7-6L69 187.3l26.8 6.2 1.5-.1-.1 3.4 1.4 9.9s-3 9.8-2.8 9.9c.3.2 1.7 2.8 1.8 2.6.1-.3 3.5-12.5 3.5-12.5l-1.9-10.4.3-3.1 2.5-.1zm-26.2-39.4.6-10.8-4 5.1-.7 8.4 5.4 7.5-1.3-10.2zm49.1 11 6.7-6.9-.7-10.8-7.3-4.3.6 11-1.3 10.2-8.9 9.1-8.1 9.8-2.5 5 6.5-8.5 15-14.6zm-18.1 22.4 22.9-5 11.2-13.4 3.2-12.3-3.8-1.7-2.4 13-8.6 13.1-22.5 6.3zm56.5 9.7.8 21.6.5-20.4 4.5-13.1-5.8 11.9z" fill="#2d2d2d" stroke-width="none" opacity="1"></path><path id="SvgjsPath25660" d="m137.4 165.7 1.2-10.5-6-6.2 1.4 10.3-10.3 16.1-14 8.7 18.6-4.5 9.1-13.9zm13.6 6.2-6.2-10.1c.2.6-2.1 9.5-2.1 9.5l-10.3 12.4-15.5 7.2 16.7-3.1 15.7-12.6 1.7-3.3zm24.8 14-3.7-1.9-2.3 5.6 3.9 9.3 3.9 19.2 4.1.2-5.9-32.4zm-7.7-6.5-14.4-4.8-2.5 5-8.3 5.6 19.4.6 4.5 1.2 3.7-5.6-2.4-2zM85 175.6l-10.1-10.3-3.7-7.4-1.4.6 3.1 11.6 11.6 9.1 14.4 5.6 3.1 3.9-3.3-5.6-13.7-7.5zm43.1-12.5-16.7 16.1-6.6 8.5 13.4-11.6 9.9-13z" fill="#4b4b4b" stroke-width="none" opacity="1"></path></g><g id="svga-group-head" transform="matrix(1,0,0,1,0,0)"><g id="svga-group-ears-left-move" transform="matrix(1,0,0,1,3,1)"><g id="svga-group-ears-left" transform="matrix(0.9499998000000001,0,0,0.9499998000000001,2.8675116798091835,5.230020843705745)"><path id="SvgjsPath25673" d="M60.9 93s-5.5-3-7.7-3.9c0 0-3.9 5.4-5.1 7.2 0 0 3.1 14.7 3.9 17.3l5 6.5 5.4-1.7 4.2-14.2L60.9 93z" fill="#fbd5c0" stroke-width="none" opacity="1" stroke="none"></path><path id="SvgjsPath25674" d="M58.8 104.7c-.2-.4-6-10-6-10l-2.3 7.9 2.6-2.4 1.6 2.9s-.3 5-.2 5.5c0 .5 2.4 4.3 2.4 4.3l1.9-8.2z" fill="#dc9f7d" stroke-width="none" opacity="1" stroke="none"></path><path id="SvgjsPath25675" d="m58.4 98-5.2-8.9c2.2.9 7.7 1.8 7.7 1.8l5.7 13.3-4.2 14.2-5.4 1.7 3.6-3.4L58.4 98z" fill="#ecb99d" stroke-width="none" opacity="1" stroke="none"></path></g></g><g id="svga-group-ears-right-move" transform="matrix(1,0,0,1,-3,1)"><g id="svga-group-ears-right" transform="matrix(0.9499998000000001,0,0,0.9499998000000001,7.1325289877654825,5.230020843705745)"><path id="SvgjsPath25676" d="M139.1 93s5.5-3 7.7-3.9c0 0 3.9 5.4 5.1 7.2 0 0-3.1 14.7-3.9 17.3l-5 6.5-5.4-1.7-4.2-14.2 5.7-11.2z" fill="#fbd5c0" stroke-width="none" opacity="1" stroke="none"></path><path id="SvgjsPath25677" d="M141.2 104.7c.2-.4 6-10 6-10l2.3 7.9-2.6-2.4-1.6 2.9s.3 5 .2 5.5c0 .5-2.4 4.3-2.4 4.3l-1.9-8.2z" fill="#dc9f7d" stroke-width="none" opacity="1" stroke="none"></path><path id="SvgjsPath25678" d="m141.6 98 5.2-8.9c-2.2.9-7.7 1.8-7.7 1.8l-5.7 13.3 4.2 14.2 5.4 1.7-3.6-3.4 2.2-18.7z" fill="#ecb99d" stroke-width="none" opacity="1" stroke="none"></path></g></g><g id="svga-group-faceshape-wrap" transform="matrix(0.9599996000000002,0,0,0.9997996000000002,4.002039836892678,0.01937867938841009)"><g id="svga-group-faceshape-single"><path id="SvgjsPath25757" d="M138.1 60c-6.9-11.6-19.7-19.5-19.7-19.5-7.2-1.5-18.4-2.3-18.4-2.3s-11.1.8-18.4 2.3c0 0-12.8 7.9-19.7 19.5 0 0-5.1 14.5-5.3 24.8l4.9 33.9 14.2 24.8 16.9 11.7h14.9l16.9-11.7 14.2-24.8 4.9-33.9c-.3-10.3-5.4-24.8-5.4-24.8z" fill="#fbd5c0" stroke-width="none" opacity="1" stroke="none"></path><path id="SvgjsPath25758" d="m92.7 152.7-14.6-12.3s-11.4-20.9-11.8-21.7c-.4-.9-5-34.3-5-34.3.2-4.8 4.5-21.5 5-22.2 2.1-3.2 16.5-18 16.5-18l17.1-4.1 18.5.4c-7.2-1.5-18.4-2.3-18.4-2.3s-11.1.8-18.4 2.3c0 0-12.8 7.9-19.7 19.5 0 0-5.1 14.5-5.3 24.8l4.9 33.9 14.2 24.8 16.9 11.7h14.9l16.9-11.7-18 10.4-13.7-1.2z" fill="#dc9f7d" stroke-width="none" opacity="1" stroke="none"></path></g></g><g id="svga-group-mouth-single-move" transform="matrix(1,0,0,1,0,-1)"><g id="svga-group-mouth-single"><path id="SvgjsPath25869" d="m111.71 128.99-5.84-1.83-3.28-.34h-5.18l-3.28.34-5.68 1.83-2.35 1 1.57 2.22 7.2 3.17h10.26l7.2-3.17 1.57-2.22z" fill="#e0a4a0" stroke-width="none" opacity="1" transform="translate(0 2)" stroke="none"></path><path id="SvgjsPath25870" d="m83.15 129.56 6.2 1.7h19.9l7.6-2.1-8.3 1.1h-19.3z" fill="#d18580" stroke-width="none" opacity="1" transform="translate(0 2)" stroke="none"></path></g></g><g id="svga-group-eyes-left-move" transform="matrix(1,0,0,1,0,0)"><g id="svga-group-eyes-left" transform="matrix(0.8999996000000001,0,0,0.8999996000000001,8.060032087411486,9.525038481471242)"><g id="svga-group-eyesback-left"><path id="SvgjsPath25713" d="M92.5 96.6 88 92.7S75 92 74.7 92s-6.3 4.2-6.1 4.4c.2.2 6.5 3 9 3.5 0 0 3.8 0 7.7-.8 2.8-.8 5.7-1.9 7.2-2.5z" fill="#ffffff" stroke-width="none" opacity="1"></path></g><g id="svga-group-eyesiriswrapper-left" transform="matrix(1,0,0,1,0,0)"><g id="svga-group-eyesiriscontrol-left" transform="matrix(1,0,0,1,0,1)"><g id="svga-group-eyesiris-left"><path id="SvgjsPath25792" d="m79.4 99.5-2.6-1.9-1-3 1-3.1 2.6-1.9h3.2l2.6 1.9 1 3.1-1 3-2.6 1.9z" fill="#5b4424" stroke-width="none" opacity="1"></path><path id="SvgjsPath25793" d="m82.5 89.8 2.5 1.8.9 2.9-.9 3-2.5 1.8h-3.1L77 97.5l-.9-2.9.9-2.9 2.5-1.8h3m.2-.6h-3.4l-2.8 2-1.1 3.2 1.1 3.2 2.8 2h3.4l2.8-2 1.1-3.2-1.1-3.2-2.8-2z" fill="#3c280c" stroke-width="none" opacity="1"></path><path id="SvgjsPath25794" d="M81.8 91.9h-1.6l-1.4 1-.6 1.7.6 1.6 1.4 1h1.6l1.4-1 .6-1.6-.6-1.7z" fill="#000000" stroke-width="none" opacity="1"></path><path id="SvgjsPath25795" d="m82.4 99.2.2-.8.9.2.1-.9.8.2s-.2-.8-.1-.8.8.1.8.1l-.5-.8.8-.2-.4-.9.9-.3-.7-.5.5-.7-.7-.3.3-.9-.6-.2.2-.8h-.6l-.2-.6h-.4l-.1-.6 1.3.7.8 1.9.5 1.5-.1.5-.8 2.5-2 1.5-.9.6-2.4-.2.5-.6.5.4.6-.4.8.4z" fill="#3c280c" stroke-width="none" opacity="1"></path><path id="SvgjsPath25796" d="m76.9 95.9 1.2-.4v.2l-1.2.3v-.1zm.9-1.8c-.5-.1-1-.1-1.1-.1l-.1-.2s.1 0 1.1.1l.1.2zm.5-2.9.1-.1.6.8-.1.1-.6-.8zm2.2-.7h.2v.9h-.2v-.9zm2.8 1.7.7-.6.1.1-.7.6-.1-.1zm.9 1.7.7-.1v.2l-.7.1v-.2zm-.2 1.7.1-.2.7.3-.1.2-.7-.3zm-1.5 1.6.2-.1.4.8-.2.1-.4-.8zm-3.2 1.5.4-1.2.2.1-.4 1.2-.2-.1zm-1.2-1.3.3-.4.1.1-.3.4-.1-.1z" fill="#251702" stroke-width="none" opacity="1"></path><path id="SvgjsPath25797" d="m80.6 92.1-1-.3-.7.7.2.9 1 .3.7-.7z" fill="#ffffff" stroke-width="none" opacity="1"></path><path id="SvgjsPath25798" d="m82.7 96.3-.5-.4-.6.4v.6l.6.4.5-.4z" fill="#ffffff" stroke-width="none" opacity="1"></path></g></g></g><g id="svga-group-eyesfront-left"><path id="SvgjsPath25721" d="M67.1 89.3v11.9l7.9 8.4h11.2l7.9-8.4V89.3l-7.9-8.4H75l-7.9 8.4zm1.5 7c-.2-.2 5.9-4.4 6.1-4.4s13.3.8 13.3.8l4.5 3.9c-1.5.7-4.4 1.8-7.2 2.4-3.9.9-7.7.8-7.7.8-2.5-.4-8.7-3.3-9-3.5z" fill="#fbd5c0" stroke-width="none" opacity="1" stroke="none"></path><path id="SvgjsPath25722" d="m93 96.8-1.2-.5-4.1-3.4-12.9-.6-4.5 3.1-1.1 1 6.3 2.8-2.9-.7-4.7-2.1 1.8-1.8 5-3 13.3.9z" fill="#000000" stroke-width="none" opacity="1" stroke="none"></path><path id="SvgjsPath25723" d="m91.5 94.7-3.8-4.5-9.7-.1-2.9 1.3 3.4-.9 9.1.2z" fill="#ecb99d" stroke-width="none" opacity="1" stroke="none"></path></g></g></g><g id="svga-group-eyes-right-move" transform="matrix(1,0,0,1,0,0)"><g id="svga-group-eyes-right" transform="matrix(0.8999996000000001,0,0,0.8999996000000001,11.94004753111723,9.515038594059746)"><g id="svga-group-eyesback-right"><path id="SvgjsPath25714" d="m107.5 96.6 4.5-3.9s13-.7 13.3-.7 6.3 4.2 6.1 4.4c-.2.2-6.5 3-9 3.5 0 0-3.8 0-7.7-.8-2.8-.8-5.7-1.9-7.2-2.5z" fill="#ffffff" stroke-width="none" opacity="1"></path></g><g id="svga-group-eyesiriswrapper-right" transform="matrix(1,0,0,1,0,0)"><g id="svga-group-eyesiriscontrol-right" transform="matrix(1,0,0,1,0,1)"><g id="svga-group-eyesiris-right"><path id="SvgjsPath25799" d="m117.4 99.5-2.6-1.9-1-3 1-3.1 2.6-1.9h3.2l2.6 1.9 1 3.1-1 3-2.6 1.9z" fill="#5b4424" stroke-width="none" opacity="1"></path><path id="SvgjsPath25800" d="m120.5 89.8 2.5 1.8.9 2.9-.9 2.9-2.5 1.8h-3.1l-2.5-1.8-.9-2.9.9-2.9 2.5-1.8h3.1m.2-.5h-3.4l-2.8 2-1.1 3.2 1.1 3.2 2.8 2h3.4l2.8-2 1.1-3.2-1.1-3.2-2.8-2z" fill="#3c280c" stroke-width="none" opacity="1"></path><path id="SvgjsPath25801" d="M119.8 91.9h-1.6l-1.4 1-.6 1.7.6 1.6 1.4 1h1.6l1.4-1 .6-1.6-.6-1.7z" fill="#000000" stroke-width="none" opacity="1"></path><path id="SvgjsPath25802" d="m120.4 99.2.2-.8.9.2.1-.9.8.2s-.2-.8-.1-.8.8.1.8.1l-.5-.8.8-.2-.4-.9.9-.3-.7-.5.5-.7-.7-.3.3-.9-.6-.2.2-.8h-.6l-.1-.5h-.4l-.1-.6 1.3.7.8 1.9.5 1.5-.1.5-.8 2.5-2 1.5-.9.6-2.4-.2.5-.6.5.4.6-.4.7.3z" fill="#3c280c" stroke-width="none" opacity="1"></path><path id="SvgjsPath25803" d="m114.9 95.9 1.2-.4v.2l-1.2.4v-.2zm.9-1.8c-.5-.1-1-.1-1.1-.1l-.1-.2s.1 0 1.1.1l.1.2zm.5-2.9.1-.1.6.8-.1.1-.6-.8zm2.2-.7h.2v.9h-.2v-.9zm2.7 1.7.7-.6.1.1-.7.6-.1-.1zm1 1.7.7-.1v.2l-.7.1v-.2zm-.2 1.7.1-.2.7.3-.1.2-.7-.3zm-1.5 1.6.2-.1.4.8-.2.1-.4-.8zm-3.2 1.5.4-1.2.2.1-.4 1.2-.2-.1zm-1.2-1.3.3-.4.1.1-.3.4-.1-.1z" fill="#251702" stroke-width="none" opacity="1"></path><path id="SvgjsPath25804" d="m118.6 92.1-1-.3-.7.7.2.9 1 .3.7-.7z" fill="#ffffff" stroke-width="none" opacity="1"></path><path id="SvgjsPath25805" d="m120.7 96.3-.5-.4-.6.4v.6l.6.4.5-.4z" fill="#ffffff" stroke-width="none" opacity="1"></path></g></g></g><g id="svga-group-eyesfront-right"><path id="SvgjsPath25724" d="M125 80.8h-11.2l-7.9 8.4v11.9l7.9 8.4H125l7.9-8.4V89.3l-7.9-8.5zm-2.6 19s-3.8 0-7.7-.8c-2.8-.6-5.7-1.7-7.2-2.4l4.5-3.9s13-.7 13.3-.7 6.3 4.2 6.1 4.4-6.5 3-9 3.4z" fill="#fbd5c0" stroke-width="none" opacity="1" stroke="none"></path><path id="SvgjsPath25727" d="m107 96.8 1.2-.5 4.1-3.4 12.9-.6 4.5 3.1 1.1 1-6.3 2.8 2.9-.7 4.7-2.1-1.8-1.8-5-3-13.3.9z" fill="#000000" stroke-width="none" opacity="1" stroke="none"></path><path id="SvgjsPath25728" d="m108.5 94.7 3.8-4.5 9.7-.1 2.9 1.3-3.4-.9-9.1.2z" fill="#ecb99d" stroke-width="none" opacity="1" stroke="none"></path></g></g></g><g id="svga-group-facehighlight-single"></g><g id="svga-group-eyebrows-left-move" transform="matrix(1,0,0,1,0,2)"><g id="svga-group-eyebrows-left-rotate" transform="matrix(0.9825664758682251,-0.1859116107225418,0.1859116107225418,0.9825664758682251,-14.0101318359375,16.19558334350586)"><g id="svga-group-eyebrows-left"><path id="SvgjsPath25636" d="M74.2 77.6 71 79l-5 9 8.5-4.6 17.3 3.7.9-6z" fill="#2a232b" stroke-width="none" opacity="1"></path><path id="SvgjsPath25637" d="m87.9 84-1.2-4-1.7-.4 2.9 4.4zM73 78.2l5.6 4.6-4.4-5.2-1.2.6zm6.9.5 3.8 5-1.9-4.6-1.9-.4zm-11.7 5.4 2.7-1.5-2.1.5-.6 1zm14.7-4.8 1.7 1.9-.5-1.7-1.2-.2zm-12.4.7 3.8.8L71 79l-.5 1zm16.6.1 3.5 5.2-1.4-4.7-2.1-.5z" fill="#3a353a" stroke-width="none" opacity="1"></path></g></g></g><g id="svga-group-eyebrows-right-move" transform="matrix(1,0,0,1,0,2)"><g id="svga-group-eyebrows-right-rotate" transform="matrix(0.9825664758682251,0.185911625623703,-0.185911625623703,0.9825664758682251,17.496837615966797,-20.98674201965332)"><g id="svga-group-eyebrows-right"><path id="SvgjsPath25638" d="m107.3 81.1.9 6 17.3-3.7L134 88l-5-9-3.2-1.4z" fill="#2a232b" stroke-width="none" opacity="1"></path><path id="SvgjsPath25639" d="m115 79.6-1.7.3-1.2 4 2.9-4.3zm10.8-2-4.4 5.2 5.6-4.6-1.2-.6zm-7.6 1.5-1.9 4.6 3.8-5-1.9.4zm12.9 4-2.1-.5 2.7 1.5-.6-1zm-15.2-3.6-.5 1.7 1.7-1.9-1.2.2zM129 79l-3.2 1.8 3.8-.8-.6-1zm-18.2 1.5-1.4 4.7 3.5-5.2-2.1.5z" fill="#3a353a" stroke-width="none" opacity="1"></path></g></g></g><g id="svga-group-beardwrap" transform="matrix(0.9599996000000002,0,0,0.9997996000000002,0,0)"><g id="svga-group-beard-single-move" transform="matrix(1,0,0,1,1,0)"><g id="svga-group-beard-single" transform="matrix(0.8499994000000002,0,0,0.8499994000000002,0,0)"></g></g></g><g id="svga-group-mustache-single-move" transform="matrix(1,0,0,1,-0.5,3)"><g id="svga-group-mustache-single" transform="matrix(0.7999992000000002,0,0,0.7999992000000002,0,0)"></g></g><g id="svga-group-nose-single-move" transform="matrix(1,0,0,1,0,2)"><g id="svga-group-nose-single"><path id="SvgjsPath25853" d="m96.12 99.91-.45 6.4-5.78 8.87 2.98 2.25 1.63-2.02 4.32 3.82h2.41l4.27-3.82 1.57 1.96 3.15-2.19-5.79-8.92-.56-6.46-3.82-1.63z" fill="#fbd5c0" stroke-width="none" opacity="1" transform="translate(0 1)" stroke="none"></path><path id="SvgjsPath25854" d="m104.86 106.44-1.95-15.67 1.1 14.55-.86-.22 6.58 10.06-2.34 1.73-1.28-1.51.28-1.34-5.15 4.47h-2.4l-5.15-4.47.29 1.34-1.29 1.51-2.34-1.73 6.59-10.06-.86.22 1.33-22.81-2.19 23.93-5.82 8.83 3.81 2.79 1.44-2.01 4.19 3.91h2.4l4.2-3.91 1.43 2.01 3.81-2.79z" fill="#dc9f7d" stroke-width="none" opacity="1" transform="translate(0 1)" stroke="none"></path><path id="SvgjsPath25855" d="m96.15 113.17 2.37 1.46 3.1.06 2.55-1.16-.3-1.76-3.59-.6-3.94.66z" fill="#ffe1d0" stroke-width="none" opacity="1" transform="translate(0 1)" stroke="none"></path></g></g><g id="svga-group-hair-front" transform="matrix(0.9599996000000002,0,0,0.9997996000000002,3.998040010517869,0.01157310229338293)"><path id="SvgjsPath25890" d="m99.5 63.6-9.3-2.3-5-1.4-5.1-1.7-7.3-1.8-6.5 8.8-3 18.8-3 9.3-4.2-5.7-.4-10.7 1.2-15.1 7.3-12.1-1.1-6.2 3.9-9.7.4-6.5 3 7.7-1.2-7.3 3.6-7.2v4.6l1.8 3.6-.4-4 4.5 5.3 6.8 2-5.8-3.9-1.6-4.4 4.6 3 4 .4-2.8-3.6 5.9 3 21.1 2.6 4.9 3.5 10.3 4.8 1.8 3.2 4.6 4.3.8 4.2 8.5 6.8 2.4 19.2-.2 13.7-5.2 6.3-2.3-9.1-2-23.6L125 55l-14.8 6.1z" fill="#32241e" stroke-width="none" opacity="1" stroke="none"></path><path id="SvgjsPath25891" d="m99.5 63.6-18.2-9L70.4 35l-1.2-7.3 3.6-7.3V25l1.8 3.6 10.5 9.5 11.4 7.7 1 14.1 2 3.7zm-26.7-7.2-8.6-6.7-1.1-6.2 3.9-9.7 5.3 15.7 14.5 10.7-14-3.8zm5.3-32.7 1.6 4.4 5.8 3.8 20.4 5.9 4.9 10.9-4.2 11.9-7.2 2.8 10.7-2.5s9.7-17.1 9.7-17.9-6.7-10-6.7-10l-28.2-4.2-4.9-2-1.9-3.1zm55.2 25.4L125 55l-10.1 4 10.5-9.2 2.4-9.2 4.6 4.2.9 4.3zm1.2 13.3 3.4-2.2 3.9-4.3-3.9 12.8-2.6 4.4-.8-10.7zm-68.2 2.8-3 18.8-6.5-22.2 6-9.7 3.5 13.1z" fill="#2a1d17" stroke-width="none" opacity="1" stroke="none"></path><path id="SvgjsPath25892" d="m79.3 31 25.5 7.1 6.1 10.8-4.3 11.9-6.7-17.1-15.1-7.5-5.5-5.2zm35.2 26.2 11-7.3 2.4-9.2-1.8-3.2-10.3-4.8 7.2 8.7-.6 5.2-7.9 10.6z" fill="#3a2c25" stroke-width="none" opacity="1" stroke="none"></path></g><g id="svga-group-glasses-single-move" transform="matrix(1,0,0,1,0,0)"><g id="svga-group-glasses-single"></g></g></g></g></g><rect id="svga-credit-rect" width="200" height="15" x="0" y="185" fill="#ecf0f1" opacity="0.5" style="display: none;"></rect><text id="svga-credit-text" font-family="Avenir Next, Roboto, Helvetica, Arial, sans-serif" font-size="10px" text-anchor="start" font-weight="400" size="10px" anchor="start" weight="400" fill="#333333" x="33.32044982910156" y="182.6941578388214" style="display: none;"><tspan id="SvgjsTspan25630" dy="13" x="33.32044982910156">Created on AvatarMaker.com</tspan></text></g><defs id="SvgjsDefs25577"></defs></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="600px"
+   height="600px"
+   viewBox="0 0 200 200"
+   style="overflow:hidden!important;"
+   id="svg1"
+   sodipodi:docname="avatar.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0783333"
+     inkscape:cx="302.78207"
+     inkscape:cy="300"
+     inkscape:window-width="1280"
+     inkscape:window-height="1408"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svga-group-humanwrap" />
+  <g
+     id="svga-group-humanwrap"
+     style="overflow:hidden"
+     transform="matrix(1.0015024,0,0,1.0015024,-0.33210528,-20.123395)">
+    <g
+       id="svga-group-humanbody-back"
+       style="display:inline">
+      <path
+         id="SvgjsPath25775"
+         d="m 170,180.3 -27.3,-6.9 -18,-9.9 -1.5,-28.2 H 76.8 l -1.5,28.2 -18,9.9 -27.3,6.9 -9.1,19.7 -3,20 h 164.2 l -3,-20 z"
+         fill="#fbd5c0"
+         stroke-width="none"
+         opacity="1"
+         stroke="none" />
+      <path
+         id="SvgjsPath25776"
+         d="m 76.8,135.3 -1.5,28.2 -18,9.9 -27.3,6.9 -9.1,19.7 -3,20 h 14.6 v -20 l 2.7,-17.7 23.8,-6.4 24.7,-8.3 3.5,-32.3 z"
+         fill="#dc9f7d"
+         stroke-width="none"
+         opacity="1"
+         stroke="none" />
+    </g>
+    <g
+       id="svga-group-chinshadow-single"
+       style="display:none">
+      <path
+         id="SvgjsPath25771"
+         d="m 121.5,149.1 2.2,-3.8 -0.5,-10 H 76.8 l -0.8,15.9 13.8,9.6 h 14.8 z"
+         fill="#cd865f"
+         stroke-width="none"
+         opacity="1"
+         stroke="none" />
+    </g>
+    <g
+       id="svga-group-humanbody-front">
+      <path
+         id="SvgjsPath25777"
+         d="m 92.8,168.3 2,7.9 6.9,4.6 c 0,0 -8.5,-3 -8.7,-3.6 -0.2,-0.6 -0.2,-8.9 -0.2,-8.9 z"
+         fill="#dc9f7d"
+         stroke-width="none"
+         opacity="1"
+         stroke="none" />
+    </g>
+    <g
+       id="svga-group-clothes-single"
+       style="display:inline">
+      <path
+         id="SvgjsPath25658"
+         d="m 184.7,220 -8.1,-35.4 -4.8,-3.5 -1.5,-2 -17.6,-6.8 -8.6,-15.9 -3.8,-1.6 -7.3,-9 -9.4,-3.1 0.6,11 -1.3,10.1 -8.9,9.1 -8.1,9.8 -2.5,5 -1.7,-3.2 -4.5,-3.8 -11.2,-7.8 -8.9,-9.1 -1.3,-10.1 0.6,-11 -9.4,3.1 -7.3,9 -3.8,1.6 -8.6,15.9 -17.6,6.8 -1.5,2 -4.8,3.5 -8.1,35.4 z"
+         fill="#3c3c3c"
+         stroke-width="none"
+         opacity="1" />
+      <path
+         id="SvgjsPath25659"
+         d="m 134.2,188.8 -15,3.8 -9.9,0.2 -0.1,-1.7 1.3,-0.1 -0.7,-2.3 -3.2,0.3 -0.1,2.3 0.8,-0.1 v 1.6 h -2.1 l 2.1,0.2 0.1,5.9 -0.7,7.4 1.6,7.5 0.3,4.8 2.6,-1 -0.3,-5.1 -2,-6.6 0.9,-7.3 -0.3,-5.6 9.7,0.7 15.8,-4.1 16,-12.2 2,-5.3 -3.2,4.1 z m -32.2,4.3 -2.5,-0.2 0.2,-1.8 0.6,0.1 1.2,-2.2 -3.3,-2.3 -2,1.9 1.2,2.3 h 0.1 v 1.9 l -1.5,-0.1 -26,-6.9 -15.8,-11 1.9,-11 2.9,-3.8 11,18.7 17.7,7.2 -14.8,-7.9 -8.1,-12.4 2.2,-19.8 -7.2,8.9 -3.8,1.7 -8.6,15.8 -17.7,6.8 -1.5,2 -4.8,3.5 -8.1,35.5 h 10.2 l 1.3,-14.3 3.3,-18.1 2.9,2.6 2.6,13.9 1.2,15.9 v -16.2 l -2.6,-15.3 -2.2,-4.3 1.4,-1.7 16.7,-6 18.9,10.8 26.8,6.2 1.5,-0.1 -0.1,3.4 1.4,9.9 c 0,0 -3,9.8 -2.8,9.9 0.3,0.2 1.7,2.8 1.8,2.6 0.1,-0.3 3.5,-12.5 3.5,-12.5 l -1.9,-10.4 0.3,-3.1 z m -26.2,-39.4 0.6,-10.8 -4,5.1 -0.7,8.4 5.4,7.5 z m 49.1,11 6.7,-6.9 -0.7,-10.8 -7.3,-4.3 0.6,11 -1.3,10.2 -8.9,9.1 -8.1,9.8 -2.5,5 6.5,-8.5 z m -18.1,22.4 22.9,-5 11.2,-13.4 3.2,-12.3 -3.8,-1.7 -2.4,13 -8.6,13.1 z m 56.5,9.7 0.8,21.6 0.5,-20.4 4.5,-13.1 z"
+         fill="#2d2d2d"
+         stroke-width="none"
+         opacity="1" />
+      <path
+         id="SvgjsPath25660"
+         d="m 137.4,165.7 1.2,-10.5 -6,-6.2 1.4,10.3 -10.3,16.1 -14,8.7 18.6,-4.5 z m 13.6,6.2 -6.2,-10.1 c 0.2,0.6 -2.1,9.5 -2.1,9.5 l -10.3,12.4 -15.5,7.2 16.7,-3.1 15.7,-12.6 z m 24.8,14 -3.7,-1.9 -2.3,5.6 3.9,9.3 3.9,19.2 4.1,0.2 z m -7.7,-6.5 -14.4,-4.8 -2.5,5 -8.3,5.6 19.4,0.6 4.5,1.2 3.7,-5.6 z M 85,175.6 74.9,165.3 l -3.7,-7.4 -1.4,0.6 3.1,11.6 11.6,9.1 14.4,5.6 3.1,3.9 -3.3,-5.6 z m 43.1,-12.5 -16.7,16.1 -6.6,8.5 13.4,-11.6 z"
+         fill="#4b4b4b"
+         stroke-width="none"
+         opacity="1" />
+    </g>
+    <g
+       id="svga-group-head">
+      <g
+         id="svga-group-ears-left-move"
+         transform="translate(3,1)"
+         style="display:inline">
+        <g
+           id="svga-group-ears-left"
+           transform="matrix(0.9499998,0,0,0.9499998,2.8675117,5.2300208)">
+          <path
+             id="SvgjsPath25673"
+             d="m 60.9,93 c 0,0 -5.5,-3 -7.7,-3.9 0,0 -3.9,5.4 -5.1,7.2 0,0 3.1,14.7 3.9,17.3 l 5,6.5 5.4,-1.7 4.2,-14.2 z"
+             fill="#fbd5c0"
+             stroke-width="none"
+             opacity="1"
+             stroke="none" />
+          <path
+             id="SvgjsPath25674"
+             d="m 58.8,104.7 c -0.2,-0.4 -6,-10 -6,-10 l -2.3,7.9 2.6,-2.4 1.6,2.9 c 0,0 -0.3,5 -0.2,5.5 0,0.5 2.4,4.3 2.4,4.3 z"
+             fill="#dc9f7d"
+             stroke-width="none"
+             opacity="1"
+             stroke="none" />
+          <path
+             id="SvgjsPath25675"
+             d="m 58.4,98 -5.2,-8.9 c 2.2,0.9 7.7,1.8 7.7,1.8 l 5.7,13.3 -4.2,14.2 -5.4,1.7 3.6,-3.4 z"
+             fill="#ecb99d"
+             stroke-width="none"
+             opacity="1"
+             stroke="none" />
+        </g>
+      </g>
+      <g
+         id="svga-group-ears-right-move"
+         transform="translate(-3,1)"
+         style="display:inline">
+        <g
+           id="svga-group-ears-right"
+           transform="matrix(0.9499998,0,0,0.9499998,7.132529,5.2300208)">
+          <path
+             id="SvgjsPath25676"
+             d="m 139.1,93 c 0,0 5.5,-3 7.7,-3.9 0,0 3.9,5.4 5.1,7.2 0,0 -3.1,14.7 -3.9,17.3 l -5,6.5 -5.4,-1.7 -4.2,-14.2 z"
+             fill="#fbd5c0"
+             stroke-width="none"
+             opacity="1"
+             stroke="none" />
+          <path
+             id="SvgjsPath25677"
+             d="m 141.2,104.7 c 0.2,-0.4 6,-10 6,-10 l 2.3,7.9 -2.6,-2.4 -1.6,2.9 c 0,0 0.3,5 0.2,5.5 0,0.5 -2.4,4.3 -2.4,4.3 z"
+             fill="#dc9f7d"
+             stroke-width="none"
+             opacity="1"
+             stroke="none" />
+          <path
+             id="SvgjsPath25678"
+             d="m 141.6,98 5.2,-8.9 c -2.2,0.9 -7.7,1.8 -7.7,1.8 l -5.7,13.3 4.2,14.2 5.4,1.7 -3.6,-3.4 z"
+             fill="#ecb99d"
+             stroke-width="none"
+             opacity="1"
+             stroke="none" />
+        </g>
+      </g>
+      <g
+         id="svga-group-faceshape-wrap"
+         transform="matrix(0.9599996,0,0,0.9997996,4.0020398,0.01937868)"
+         style="display:inline">
+        <g
+           id="svga-group-faceshape-single">
+          <path
+             id="SvgjsPath25757"
+             d="M 138.1,60 C 131.2,48.4 118.4,40.5 118.4,40.5 111.2,39 100,38.2 100,38.2 c 0,0 -11.1,0.8 -18.4,2.3 0,0 -12.8,7.9 -19.7,19.5 0,0 -5.1,14.5 -5.3,24.8 l 4.9,33.9 14.2,24.8 16.9,11.7 h 14.9 l 16.9,-11.7 14.2,-24.8 4.9,-33.9 C 143.2,74.5 138.1,60 138.1,60 Z"
+             fill="#fbd5c0"
+             stroke-width="none"
+             opacity="1"
+             stroke="none" />
+          <path
+             id="SvgjsPath25758"
+             d="M 92.7,152.7 78.1,140.4 c 0,0 -11.4,-20.9 -11.8,-21.7 -0.4,-0.9 -5,-34.3 -5,-34.3 0.2,-4.8 4.5,-21.5 5,-22.2 2.1,-3.2 16.5,-18 16.5,-18 l 17.1,-4.1 18.5,0.4 C 111.2,39 100,38.2 100,38.2 c 0,0 -11.1,0.8 -18.4,2.3 0,0 -12.8,7.9 -19.7,19.5 0,0 -5.1,14.5 -5.3,24.8 l 4.9,33.9 14.2,24.8 16.9,11.7 h 14.9 l 16.9,-11.7 -18,10.4 z"
+             fill="#dc9f7d"
+             stroke-width="none"
+             opacity="1"
+             stroke="none" />
+        </g>
+      </g>
+      <g
+         id="svga-group-mouth-single-move"
+         transform="translate(0,-1)">
+        <g
+           id="svga-group-mouth-single">
+          <path
+             id="SvgjsPath25869"
+             d="m 111.71,128.99 -5.84,-1.83 -3.28,-0.34 h -5.18 l -3.28,0.34 -5.68,1.83 -2.35,1 1.57,2.22 7.2,3.17 h 10.26 l 7.2,-3.17 1.57,-2.22 z"
+             fill="#e0a4a0"
+             stroke-width="none"
+             opacity="1"
+             transform="translate(0,2)"
+             stroke="none" />
+          <path
+             id="SvgjsPath25870"
+             d="m 83.15,129.56 6.2,1.7 h 19.9 l 7.6,-2.1 -8.3,1.1 h -19.3 z"
+             fill="#d18580"
+             stroke-width="none"
+             opacity="1"
+             transform="translate(0,2)"
+             stroke="none" />
+        </g>
+      </g>
+      <g
+         id="svga-group-eyes-left-move">
+        <g
+           id="svga-group-eyes-left"
+           transform="matrix(0.8999996,0,0,0.8999996,8.0600321,9.5250385)">
+          <g
+             id="svga-group-eyesback-left">
+            <path
+               id="SvgjsPath25713"
+               d="M 92.5,96.6 88,92.7 c 0,0 -13,-0.7 -13.3,-0.7 -0.3,0 -6.3,4.2 -6.1,4.4 0.2,0.2 6.5,3 9,3.5 0,0 3.8,0 7.7,-0.8 2.8,-0.8 5.7,-1.9 7.2,-2.5 z"
+               fill="#ffffff"
+               stroke-width="none"
+               opacity="1" />
+          </g>
+          <g
+             id="svga-group-eyesiriswrapper-left">
+            <g
+               id="svga-group-eyesiriscontrol-left"
+               transform="translate(0,1)">
+              <g
+                 id="svga-group-eyesiris-left">
+                <path
+                   id="SvgjsPath25792"
+                   d="m 79.4,99.5 -2.6,-1.9 -1,-3 1,-3.1 2.6,-1.9 h 3.2 l 2.6,1.9 1,3.1 -1,3 -2.6,1.9 z"
+                   fill="#5b4424"
+                   stroke-width="none"
+                   opacity="1" />
+                <path
+                   id="SvgjsPath25793"
+                   d="m 82.5,89.8 2.5,1.8 0.9,2.9 -0.9,3 -2.5,1.8 H 79.4 L 77,97.5 76.1,94.6 77,91.7 79.5,89.9 h 3 m 0.2,-0.6 h -3.4 l -2.8,2 -1.1,3.2 1.1,3.2 2.8,2 h 3.4 l 2.8,-2 1.1,-3.2 -1.1,-3.2 z"
+                   fill="#3c280c"
+                   stroke-width="none"
+                   opacity="1" />
+                <path
+                   id="SvgjsPath25794"
+                   d="m 81.8,91.9 h -1.6 l -1.4,1 -0.6,1.7 0.6,1.6 1.4,1 h 1.6 l 1.4,-1 0.6,-1.6 -0.6,-1.7 z"
+                   fill="#000000"
+                   stroke-width="none"
+                   opacity="1" />
+                <path
+                   id="SvgjsPath25795"
+                   d="m 82.4,99.2 0.2,-0.8 0.9,0.2 0.1,-0.9 0.8,0.2 c 0,0 -0.2,-0.8 -0.1,-0.8 0.1,0 0.8,0.1 0.8,0.1 L 84.6,96.4 85.4,96.2 85,95.3 85.9,95 85.2,94.5 85.7,93.8 85,93.5 85.3,92.6 84.7,92.4 84.9,91.6 H 84.3 L 84.1,91 h -0.4 l -0.1,-0.6 1.3,0.7 0.8,1.9 0.5,1.5 -0.1,0.5 -0.8,2.5 -2,1.5 -0.9,0.6 -2.4,-0.2 0.5,-0.6 0.5,0.4 0.6,-0.4 z"
+                   fill="#3c280c"
+                   stroke-width="none"
+                   opacity="1" />
+                <path
+                   id="SvgjsPath25796"
+                   d="m 76.9,95.9 1.2,-0.4 v 0.2 L 76.9,96 Z m 0.9,-1.8 C 77.3,94 76.8,94 76.7,94 l -0.1,-0.2 c 0,0 0.1,0 1.1,0.1 z m 0.5,-2.9 0.1,-0.1 0.6,0.8 -0.1,0.1 z m 2.2,-0.7 h 0.2 v 0.9 h -0.2 z m 2.8,1.7 0.7,-0.6 0.1,0.1 -0.7,0.6 z m 0.9,1.7 0.7,-0.1 V 94 l -0.7,0.1 z m -0.2,1.7 0.1,-0.2 0.7,0.3 -0.1,0.2 z m -1.5,1.6 0.2,-0.1 0.4,0.8 -0.2,0.1 z m -3.2,1.5 0.4,-1.2 0.2,0.1 -0.4,1.2 z m -1.2,-1.3 0.3,-0.4 0.1,0.1 -0.3,0.4 z"
+                   fill="#251702"
+                   stroke-width="none"
+                   opacity="1" />
+                <path
+                   id="SvgjsPath25797"
+                   d="m 80.6,92.1 -1,-0.3 -0.7,0.7 0.2,0.9 1,0.3 0.7,-0.7 z"
+                   fill="#ffffff"
+                   stroke-width="none"
+                   opacity="1" />
+                <path
+                   id="SvgjsPath25798"
+                   d="m 82.7,96.3 -0.5,-0.4 -0.6,0.4 v 0.6 l 0.6,0.4 0.5,-0.4 z"
+                   fill="#ffffff"
+                   stroke-width="none"
+                   opacity="1" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="svga-group-eyesfront-left">
+            <path
+               id="SvgjsPath25721"
+               d="m 67.1,89.3 v 11.9 l 7.9,8.4 h 11.2 l 7.9,-8.4 V 89.3 L 86.2,80.9 H 75 Z m 1.5,7 c -0.2,-0.2 5.9,-4.4 6.1,-4.4 0.2,0 13.3,0.8 13.3,0.8 l 4.5,3.9 c -1.5,0.7 -4.4,1.8 -7.2,2.4 -3.9,0.9 -7.7,0.8 -7.7,0.8 -2.5,-0.4 -8.7,-3.3 -9,-3.5 z"
+               fill="#fbd5c0"
+               stroke-width="none"
+               opacity="1"
+               stroke="none" />
+            <path
+               id="SvgjsPath25722"
+               d="m 93,96.8 -1.2,-0.5 -4.1,-3.4 -12.9,-0.6 -4.5,3.1 -1.1,1 6.3,2.8 -2.9,-0.7 -4.7,-2.1 1.8,-1.8 5,-3 13.3,0.9 z"
+               fill="#000000"
+               stroke-width="none"
+               opacity="1"
+               stroke="none" />
+            <path
+               id="SvgjsPath25723"
+               d="m 91.5,94.7 -3.8,-4.5 -9.7,-0.1 -2.9,1.3 3.4,-0.9 9.1,0.2 z"
+               fill="#ecb99d"
+               stroke-width="none"
+               opacity="1"
+               stroke="none" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="svga-group-eyes-right-move">
+        <g
+           id="svga-group-eyes-right"
+           transform="matrix(0.8999996,0,0,0.8999996,11.940048,9.5150386)">
+          <g
+             id="svga-group-eyesback-right">
+            <path
+               id="SvgjsPath25714"
+               d="m 107.5,96.6 4.5,-3.9 c 0,0 13,-0.7 13.3,-0.7 0.3,0 6.3,4.2 6.1,4.4 -0.2,0.2 -6.5,3 -9,3.5 0,0 -3.8,0 -7.7,-0.8 -2.8,-0.8 -5.7,-1.9 -7.2,-2.5 z"
+               fill="#ffffff"
+               stroke-width="none"
+               opacity="1" />
+          </g>
+          <g
+             id="svga-group-eyesiriswrapper-right">
+            <g
+               id="svga-group-eyesiriscontrol-right"
+               transform="translate(0,1)">
+              <g
+                 id="svga-group-eyesiris-right">
+                <path
+                   id="SvgjsPath25799"
+                   d="m 117.4,99.5 -2.6,-1.9 -1,-3 1,-3.1 2.6,-1.9 h 3.2 l 2.6,1.9 1,3.1 -1,3 -2.6,1.9 z"
+                   fill="#5b4424"
+                   stroke-width="none"
+                   opacity="1" />
+                <path
+                   id="SvgjsPath25800"
+                   d="m 120.5,89.8 2.5,1.8 0.9,2.9 -0.9,2.9 -2.5,1.8 h -3.1 l -2.5,-1.8 -0.9,-2.9 0.9,-2.9 2.5,-1.8 h 3.1 m 0.2,-0.5 h -3.4 l -2.8,2 -1.1,3.2 1.1,3.2 2.8,2 h 3.4 l 2.8,-2 1.1,-3.2 -1.1,-3.2 z"
+                   fill="#3c280c"
+                   stroke-width="none"
+                   opacity="1" />
+                <path
+                   id="SvgjsPath25801"
+                   d="m 119.8,91.9 h -1.6 l -1.4,1 -0.6,1.7 0.6,1.6 1.4,1 h 1.6 l 1.4,-1 0.6,-1.6 -0.6,-1.7 z"
+                   fill="#000000"
+                   stroke-width="none"
+                   opacity="1" />
+                <path
+                   id="SvgjsPath25802"
+                   d="m 120.4,99.2 0.2,-0.8 0.9,0.2 0.1,-0.9 0.8,0.2 c 0,0 -0.2,-0.8 -0.1,-0.8 0.1,0 0.8,0.1 0.8,0.1 l -0.5,-0.8 0.8,-0.2 -0.4,-0.9 0.9,-0.3 -0.7,-0.5 0.5,-0.7 -0.7,-0.3 0.3,-0.9 -0.6,-0.2 0.2,-0.8 h -0.6 l -0.1,-0.5 h -0.4 l -0.1,-0.6 1.3,0.7 0.8,1.9 0.5,1.5 -0.1,0.5 -0.8,2.5 -2,1.5 -0.9,0.6 -2.4,-0.2 0.5,-0.6 0.5,0.4 0.6,-0.4 z"
+                   fill="#3c280c"
+                   stroke-width="none"
+                   opacity="1" />
+                <path
+                   id="SvgjsPath25803"
+                   d="m 114.9,95.9 1.2,-0.4 v 0.2 l -1.2,0.4 z m 0.9,-1.8 C 115.3,94 114.8,94 114.7,94 l -0.1,-0.2 c 0,0 0.1,0 1.1,0.1 z m 0.5,-2.9 0.1,-0.1 0.6,0.8 -0.1,0.1 z m 2.2,-0.7 h 0.2 v 0.9 h -0.2 z m 2.7,1.7 0.7,-0.6 0.1,0.1 -0.7,0.6 z m 1,1.7 0.7,-0.1 V 94 l -0.7,0.1 z m -0.2,1.7 0.1,-0.2 0.7,0.3 -0.1,0.2 z m -1.5,1.6 0.2,-0.1 0.4,0.8 -0.2,0.1 z m -3.2,1.5 0.4,-1.2 0.2,0.1 -0.4,1.2 z m -1.2,-1.3 0.3,-0.4 0.1,0.1 -0.3,0.4 z"
+                   fill="#251702"
+                   stroke-width="none"
+                   opacity="1" />
+                <path
+                   id="SvgjsPath25804"
+                   d="m 118.6,92.1 -1,-0.3 -0.7,0.7 0.2,0.9 1,0.3 0.7,-0.7 z"
+                   fill="#ffffff"
+                   stroke-width="none"
+                   opacity="1" />
+                <path
+                   id="SvgjsPath25805"
+                   d="m 120.7,96.3 -0.5,-0.4 -0.6,0.4 v 0.6 l 0.6,0.4 0.5,-0.4 z"
+                   fill="#ffffff"
+                   stroke-width="none"
+                   opacity="1" />
+              </g>
+            </g>
+          </g>
+          <g
+             id="svga-group-eyesfront-right">
+            <path
+               id="SvgjsPath25724"
+               d="m 125,80.8 h -11.2 l -7.9,8.4 v 11.9 l 7.9,8.4 H 125 l 7.9,-8.4 V 89.3 Z m -2.6,19 c 0,0 -3.8,0 -7.7,-0.8 -2.8,-0.6 -5.7,-1.7 -7.2,-2.4 l 4.5,-3.9 c 0,0 13,-0.7 13.3,-0.7 0.3,0 6.3,4.2 6.1,4.4 -0.2,0.2 -6.5,3 -9,3.4 z"
+               fill="#fbd5c0"
+               stroke-width="none"
+               opacity="1"
+               stroke="none" />
+            <path
+               id="SvgjsPath25727"
+               d="m 107,96.8 1.2,-0.5 4.1,-3.4 12.9,-0.6 4.5,3.1 1.1,1 -6.3,2.8 2.9,-0.7 4.7,-2.1 -1.8,-1.8 -5,-3 -13.3,0.9 z"
+               fill="#000000"
+               stroke-width="none"
+               opacity="1"
+               stroke="none" />
+            <path
+               id="SvgjsPath25728"
+               d="m 108.5,94.7 3.8,-4.5 9.7,-0.1 2.9,1.3 -3.4,-0.9 -9.1,0.2 z"
+               fill="#ecb99d"
+               stroke-width="none"
+               opacity="1"
+               stroke="none" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="svga-group-facehighlight-single" />
+      <g
+         id="svga-group-eyebrows-left-move"
+         transform="translate(0,2)">
+        <g
+           id="svga-group-eyebrows-left-rotate"
+           transform="rotate(-10.714286,79.350006,82.800004)">
+          <g
+             id="svga-group-eyebrows-left">
+            <path
+               id="SvgjsPath25636"
+               d="M 74.2,77.6 71,79 l -5,9 8.5,-4.6 17.3,3.7 0.9,-6 z"
+               fill="#2a232b"
+               stroke-width="none"
+               opacity="1" />
+            <path
+               id="SvgjsPath25637"
+               d="M 87.9,84 86.7,80 85,79.6 Z M 73,78.2 l 5.6,4.6 -4.4,-5.2 z m 6.9,0.5 3.8,5 -1.9,-4.6 z m -11.7,5.4 2.7,-1.5 -2.1,0.5 z m 14.7,-4.8 1.7,1.9 -0.5,-1.7 z M 70.5,80 74.3,80.8 71,79 Z m 16.6,0.1 3.5,5.2 -1.4,-4.7 z"
+               fill="#3a353a"
+               stroke-width="none"
+               opacity="1" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="svga-group-eyebrows-right-move"
+         transform="translate(0,2)">
+        <g
+           id="svga-group-eyebrows-right-rotate"
+           transform="rotate(10.714287,120.65,82.800002)">
+          <g
+             id="svga-group-eyebrows-right">
+            <path
+               id="SvgjsPath25638"
+               d="m 107.3,81.1 0.9,6 17.3,-3.7 8.5,4.6 -5,-9 -3.2,-1.4 z"
+               fill="#2a232b"
+               stroke-width="none"
+               opacity="1" />
+            <path
+               id="SvgjsPath25639"
+               d="m 115,79.6 -1.7,0.3 -1.2,4 z m 10.8,-2 -4.4,5.2 5.6,-4.6 z m -7.6,1.5 -1.9,4.6 3.8,-5 z m 12.9,4 -2.1,-0.5 2.7,1.5 z m -15.2,-3.6 -0.5,1.7 1.7,-1.9 z M 129,79 l -3.2,1.8 3.8,-0.8 z m -18.2,1.5 -1.4,4.7 3.5,-5.2 z"
+               fill="#3a353a"
+               stroke-width="none"
+               opacity="1" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="svga-group-beardwrap"
+         transform="scale(0.9599996,0.9997996)">
+        <g
+           id="svga-group-beard-single-move"
+           transform="translate(1)">
+          <g
+             id="svga-group-beard-single"
+             transform="scale(0.8499994)" />
+        </g>
+      </g>
+      <g
+         id="svga-group-mustache-single-move"
+         transform="translate(-0.5,3)"
+         style="display:inline">
+        <g
+           id="svga-group-mustache-single"
+           transform="scale(0.7999992)" />
+      </g>
+      <g
+         id="svga-group-nose-single-move"
+         transform="translate(0,2)"
+         style="display:inline">
+        <g
+           id="svga-group-nose-single">
+          <path
+             id="SvgjsPath25853"
+             d="m 96.12,99.91 -0.45,6.4 -5.78,8.87 2.98,2.25 1.63,-2.02 4.32,3.82 h 2.41 l 4.27,-3.82 1.57,1.96 3.15,-2.19 -5.79,-8.92 -0.56,-6.46 -3.82,-1.63 z"
+             fill="#fbd5c0"
+             stroke-width="none"
+             opacity="1"
+             transform="translate(0,1)"
+             stroke="none" />
+          <path
+             id="SvgjsPath25854"
+             d="m 104.86,106.44 -1.95,-15.67 1.1,14.55 -0.86,-0.22 6.58,10.06 -2.34,1.73 -1.28,-1.51 0.28,-1.34 -5.15,4.47 h -2.4 l -5.15,-4.47 0.29,1.34 -1.29,1.51 -2.34,-1.73 6.59,-10.06 -0.86,0.22 1.33,-22.81 -2.19,23.93 -5.82,8.83 3.81,2.79 1.44,-2.01 4.19,3.91 h 2.4 l 4.2,-3.91 1.43,2.01 3.81,-2.79 z"
+             fill="#dc9f7d"
+             stroke-width="none"
+             opacity="1"
+             transform="translate(0,1)"
+             stroke="none" />
+          <path
+             id="SvgjsPath25855"
+             d="m 96.15,113.17 2.37,1.46 3.1,0.06 2.55,-1.16 -0.3,-1.76 -3.59,-0.6 -3.94,0.66 z"
+             fill="#ffe1d0"
+             stroke-width="none"
+             opacity="1"
+             transform="translate(0,1)"
+             stroke="none" />
+        </g>
+      </g>
+      <g
+         id="svga-group-hair-front"
+         transform="matrix(0.9599996,0,0,0.9997996,3.99804,0.0115731)"
+         style="display:inline">
+        <path
+           id="SvgjsPath25890"
+           d="m 99.5,63.6 -9.3,-2.3 -5,-1.4 -5.1,-1.7 -7.3,-1.8 -6.5,8.8 -3,18.8 -3,9.3 -4.2,-5.7 -0.4,-10.7 1.2,-15.1 7.3,-12.1 -1.1,-6.2 3.9,-9.7 0.4,-6.5 3,7.7 -1.2,-7.3 3.6,-7.2 v 4.6 l 1.8,3.6 -0.4,-4 4.5,5.3 6.8,2 -5.8,-3.9 -1.6,-4.4 4.6,3 4,0.4 -2.8,-3.6 5.9,3 21.1,2.6 4.9,3.5 10.3,4.8 1.8,3.2 4.6,4.3 0.8,4.2 8.5,6.8 2.4,19.2 -0.2,13.7 -5.2,6.3 -2.3,-9.1 -2,-23.6 -9.5,-7.4 -14.8,6.1 z"
+           fill="#32241e"
+           stroke-width="none"
+           opacity="1"
+           stroke="none" />
+        <path
+           id="SvgjsPath25891"
+           d="M 99.5,63.6 81.3,54.6 70.4,35 69.2,27.7 72.8,20.4 V 25 l 1.8,3.6 10.5,9.5 11.4,7.7 1,14.1 z M 72.8,56.4 64.2,49.7 63.1,43.5 67,33.8 72.3,49.5 86.8,60.2 Z m 5.3,-32.7 1.6,4.4 5.8,3.8 20.4,5.9 4.9,10.9 -4.2,11.9 -7.2,2.8 10.7,-2.5 c 0,0 9.7,-17.1 9.7,-17.9 0,-0.8 -6.7,-10 -6.7,-10 L 84.9,28.8 80,26.8 Z m 55.2,25.4 -8.3,5.9 -10.1,4 10.5,-9.2 2.4,-9.2 4.6,4.2 z m 1.2,13.3 3.4,-2.2 3.9,-4.3 -3.9,12.8 -2.6,4.4 z m -68.2,2.8 -3,18.8 -6.5,-22.2 6,-9.7 z"
+           fill="#2a1d17"
+           stroke-width="none"
+           opacity="1"
+           stroke="none" />
+        <path
+           id="SvgjsPath25892"
+           d="m 79.3,31 25.5,7.1 6.1,10.8 -4.3,11.9 -6.7,-17.1 -15.1,-7.5 z m 35.2,26.2 11,-7.3 2.4,-9.2 -1.8,-3.2 -10.3,-4.8 7.2,8.7 -0.6,5.2 z"
+           fill="#3a2c25"
+           stroke-width="none"
+           opacity="1"
+           stroke="none" />
+      </g>
+      <g
+         id="svga-group-glasses-single-move"
+         style="display:inline">
+        <g
+           id="svga-group-glasses-single" />
+      </g>
+    </g>
+  </g>
+  <defs
+     id="SvgjsDefs25577" />
+</svg>
