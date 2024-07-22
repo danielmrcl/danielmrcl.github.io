@@ -4,6 +4,7 @@ import { initReactI18next } from "react-i18next";
 const resources = {
 	en: {
 		translation: {
+			"title": "About Me",
 			"role": "Backend Developer",
 			"technologies": "Since 2021, I've been developing Java 8+ applications using Spring and PostgreSQL in a microservices architecture for critical, efficient and scalable systems.",
 			"principles": "With a focus on code quality, architecture and scalability, I have strong foundation of programming, design and architecture. I am passionate about programming and constantly learn new technologies and paradigms."
@@ -11,6 +12,7 @@ const resources = {
 	},
 	pt: {
 		translation: {
+			"title": "Sobre Mim",
 			"role": "Desenvolvedor Backend",
 			"technologies": "Desde 2021 desenvolvo aplicações Java 8+ utilizando Spring e PostgreSQL em uma arquitetura de microsserviços para sistemas críticos, eficientes e escaláveis.",
 			"principles": "Com foco em qualidade de código, arquitetura e escalabilidade, possuo sólida base de programação, design e arquitetura. Sou apaixonado por programação e aprendo constantemente novas tecnologias e paradigmas."
