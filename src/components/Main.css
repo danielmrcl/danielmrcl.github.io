@@ -1,0 +1,12 @@
+main {
+	max-width: 1012px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 16px !important;
+	padding-left: 16px !important;
+	margin-top: 16px !important;
+	margin-bottom: 16px !important;
+	display: flex;
+	flex-direction: column;
+}
+

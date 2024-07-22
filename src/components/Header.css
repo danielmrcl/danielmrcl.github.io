@@ -1,0 +1,23 @@
+header {
+	max-width: 1012px;
+	height: 28px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-right: 16px !important;
+	padding-left: 16px !important;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: flex-end;
+	align-items: center;
+}
+
+.language-selector > button {
+	background: rgba(0,0,0,0);
+	border-width: 0;
+	cursor: pointer;
+	font-size: 22px;
+	margin-left: 2px;
+	margin-right: 2px;
+	padding: 0;
+	text-align: center;
+}
